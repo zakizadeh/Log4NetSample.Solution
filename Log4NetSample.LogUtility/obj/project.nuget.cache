@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFgbP/ERcLw2t4lBibhIr8UCQW3B+jMnps3K4z+1zaSeOBctMhGvTHQTXU++IepZ5kc7REgsQ5s9WaL9rqUdoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\Log4NetSample.LogUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\log4net\\2.0.14\\log4net.2.0.14.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

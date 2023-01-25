@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44f398c7-f336-4857-9462-2cb5bd25f855": {
+      "ProjectGuid": "44f398c7-f336-4857-9462-2cb5bd25f855",
+      "DisplayName": "Log4NetSample.ConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

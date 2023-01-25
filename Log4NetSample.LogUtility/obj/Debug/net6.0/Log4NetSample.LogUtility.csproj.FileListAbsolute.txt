@@ -1,0 +1,12 @@
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\bin\Debug\net6.0\Log4NetSample.LogUtility.deps.json
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\bin\Debug\net6.0\Log4NetSample.LogUtility.dll
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\bin\Debug\net6.0\ref\Log4NetSample.LogUtility.dll
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\bin\Debug\net6.0\Log4NetSample.LogUtility.pdb
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.csproj.AssemblyReference.cache
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.AssemblyInfoInputs.cache
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.AssemblyInfo.cs
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.csproj.CoreCompileInputs.cache
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.dll
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\ref\Log4NetSample.LogUtility.dll
+C:\Users\ho-zakizadeh\Desktop\Log4NetSample.Solution\Log4NetSample.LogUtility\obj\Debug\net6.0\Log4NetSample.LogUtility.pdb

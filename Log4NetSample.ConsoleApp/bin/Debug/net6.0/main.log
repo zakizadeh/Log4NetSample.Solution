@@ -1,0 +1,99 @@
+2022-08-28 22:03:02,463 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2022-08-28 22:03:02,511 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2022-08-28 22:03:02,523 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2022-08-28 22:03:02,523 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2022-08-29 19:27:31,303 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2022-08-29 19:27:31,360 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2022-08-29 19:27:31,398 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2022-08-29 19:27:31,399 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:19:39,573 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:19:39,712 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:19:39,737 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:19:39,737 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:20:22,041 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-24 12:20:34,097 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:20:34,166 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:20:34,182 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:20:34,183 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:22:25,114 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:22:25,178 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:22:25,195 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:22:25,250 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:26:54,070 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:26:54,134 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:26:54,150 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:26:54,199 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:34:14,774 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:34:15,095 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:34:15,150 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:34:15,165 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:46:41,008 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:46:41,467 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:46:41,523 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:46:41,554 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:47:09,118 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-24 12:48:20,372 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:48:20,566 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:48:20,584 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:48:20,611 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:48:35,709 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-24 12:49:35,603 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:49:35,789 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:49:35,807 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:49:35,828 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 12:49:57,709 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-24 12:54:25,951 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 12:54:26,394 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 12:54:26,465 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 12:54:26,493 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 13:21:54,319 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 13:21:54,750 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 13:21:54,788 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 13:21:54,820 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 13:24:21,849 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 13:24:22,279 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 13:24:22,314 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 13:24:22,350 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 13:27:51,372 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-24 13:28:24,596 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 13:28:25,026 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 13:28:25,116 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 13:28:25,167 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-24 13:32:51,379 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-24 13:32:51,787 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-24 13:32:51,828 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-24 13:32:51,863 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 08:49:31,179 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 08:49:31,814 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 08:49:31,862 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 08:49:31,885 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 08:50:43,782 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-25 08:50:51,616 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 08:50:52,015 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 08:50:52,078 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 08:50:52,119 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 08:56:01,532 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 08:56:01,841 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 08:56:01,895 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 08:56:01,925 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 08:57:11,454 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 08:57:11,752 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 08:57:11,791 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 08:57:11,839 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 09:17:59,059 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Ending application
+2023-01-25 09:19:40,906 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 09:19:41,285 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 09:19:41,322 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 09:19:41,348 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 09:22:03,094 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 09:22:03,495 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 09:22:03,547 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 09:22:03,623 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 10:29:34,490 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 10:29:34,952 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 10:29:34,998 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 10:29:35,027 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input
+2023-01-25 10:30:49,016 [1] INFO Log4NetSample.LogUtility.Logger.Info[29] - Starting the console application
+2023-01-25 10:30:49,382 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Starting Program
+2023-01-25 10:30:49,426 [1] ERROR Log4NetSample.LogUtility.Logger.Error[34] - Sample Error inside the try catch block code
+2023-01-25 10:30:49,452 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[24] - Waiting for user input

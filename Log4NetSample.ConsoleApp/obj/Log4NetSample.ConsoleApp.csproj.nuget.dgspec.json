@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp\\Log4NetSample.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp\\Log4NetSample.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp\\Log4NetSample.ConsoleApp.csproj",
+        "projectName": "Log4NetSample.ConsoleApp",
+        "projectPath": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp\\Log4NetSample.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\Log4NetSample.LogUtility.csproj": {
+                "projectPath": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\Log4NetSample.LogUtility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Log4NetCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MicroKnights.Log4NetAdoNetAppender": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MicroKnights.Log4NetAdoNetAppender.StrongName": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            },
+            "log4net.Appender.ElasticSearch": {
+              "target": "Package",
+              "version": "[0.1.5, )"
+            },
+            "log4net.ElasticSearch": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "log4net.ElasticSearch.Async": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "log4net.ElasticSearch.NEST": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "log4net.ElasticSearchAppender.DotNetCore": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "log4net.els": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\Log4NetSample.LogUtility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\Log4NetSample.LogUtility.csproj",
+        "projectName": "Log4NetSample.LogUtility",
+        "projectPath": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\Log4NetSample.LogUtility.csproj",
+        "packagesPath": "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ho-zakizadeh\\Desktop\\Log4NetSample.Solution\\Log4NetSample.LogUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ho-zakizadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
